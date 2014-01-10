@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6e7dc6a-0509-4b39-9a32-28c36bb1939b" name="Default" comment="Initial commit&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/TestFramework/VSBrandAppTest.java" />
-      <change type="DELETED" beforePath="S:\Sandbox\TestFramework\src\test\java\TestFramework\AppTest.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="e6e7dc6a-0509-4b39-9a32-28c36bb1939b" name="Default" comment="Initial commit&#10;" />
     <ignored path="TestFramework.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -80,7 +76,7 @@
       <file leaf-file-name="VSBrandAppTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestFramework/VSBrandAppTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="16" selection-start="221" selection-end="221" vertical-scroll-proportion="0.36033058" vertical-offset="3" max-vertical-offset="918">
+            <state line="26" column="46" selection-start="574" selection-end="574" vertical-scroll-proportion="0.72561985" vertical-offset="3" max-vertical-offset="918">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -553,12 +549,12 @@
       <changelist id="e6e7dc6a-0509-4b39-9a32-28c36bb1939b" name="Default" comment="" />
       <created>1389298566151</created>
       <updated>1389298566151</updated>
-      <workItem from="1389298572003" duration="7744000" />
+      <workItem from="1389298572003" duration="7946000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7744000" />
+    <option name="totallyTimeSpent" value="7946000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -581,11 +577,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="-8" width="1873" height="1096" extended-state="1" />
+    <frame x="55" y="-8" width="1873" height="1096" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32943678" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943678" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943678" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -604,7 +600,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3294766" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24958678" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943678" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32943678" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -657,7 +653,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestFramework/VSBrandAppTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="16" selection-start="221" selection-end="221" vertical-scroll-proportion="0.36033058" vertical-offset="3" max-vertical-offset="918">
+        <state line="26" column="46" selection-start="574" selection-end="574" vertical-scroll-proportion="0.72561985" vertical-offset="3" max-vertical-offset="918">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
